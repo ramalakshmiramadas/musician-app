@@ -8,6 +8,10 @@
     "start": "nodemon app.js",
     "start-dev": "nodemon app.js"
   },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "author": "Jonathan Spruance",
   "license": "ISC",
   "dependencies": {
